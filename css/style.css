@@ -1,0 +1,59 @@
+
+body {
+  font-size: 16px;
+}
+
+.imagen {
+background-color:black;
+opacity: .7;
+
+}
+
+.imagen h1 {
+  font-size: 100px;
+  font-weight: bold;
+  font-family: helvetica;
+  color:khaki;
+}
+
+
+span {
+  font-family:helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+
+.titulo1 {
+  font-size:32px;
+  color:white;
+  font-weight: bold;
+  font-family: helvetica;
+  background-color:mediumspringgreen;
+}
+
+.titulo2 {
+  font-size:32px;
+  color:white;
+  font-weight: bold;
+  font-family: helvetica;
+  background-color:lightcoral;
+}
+.titulo3 {
+  font-size:32px;
+  color:white;
+  font-weight: bold;
+  font-family: helvetica;
+  background-color:skyblue;
+}
+
+p {
+  font-size:1.25rem;
+}
+
+h3 {
+  font-size:1.5 rem;
+  color:black;
+  font-weight: bold;
+
+}
